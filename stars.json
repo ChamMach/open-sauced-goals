@@ -1,15 +1,15 @@
 [
   {
     "full_name": "prometheus-operator/kube-prometheus",
-    "stargazers_count": 3999,
+    "stargazers_count": 4008,
     "open_issues_count": 145,
-    "forks_count": 1291
+    "forks_count": 1300
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 36604,
-    "open_issues_count": 330,
-    "forks_count": 13627
+    "stargazers_count": 36729,
+    "open_issues_count": 336,
+    "forks_count": 13658
   },
   {
     "full_name": "cycloidio/terracost",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "elastic/beats",
-    "stargazers_count": 10892,
-    "open_issues_count": 1082,
-    "forks_count": 4397
+    "stargazers_count": 10900,
+    "open_issues_count": 1092,
+    "forks_count": 4402
   },
   {
     "full_name": "elastic/elasticsearch",
-    "stargazers_count": 59168,
-    "open_issues_count": 3921,
-    "forks_count": 21557
+    "stargazers_count": 59183,
+    "open_issues_count": 3926,
+    "forks_count": 21576
   },
   {
     "full_name": "elastic/cloud-on-k8s",
-    "stargazers_count": 1821,
-    "open_issues_count": 326,
-    "forks_count": 466
+    "stargazers_count": 1826,
+    "open_issues_count": 329,
+    "forks_count": 470
   },
   {
     "full_name": "werf/werf",
-    "stargazers_count": 3066,
+    "stargazers_count": 3070,
     "open_issues_count": 242,
     "forks_count": 153
   },
   {
     "full_name": "alexandresanlim/Badges4-README.md-Profile",
-    "stargazers_count": 4511,
+    "stargazers_count": 4532,
     "open_issues_count": 0,
-    "forks_count": 964
+    "forks_count": 966
   },
   {
     "full_name": "storax/kubedoom",
-    "stargazers_count": 1542,
+    "stargazers_count": 1545,
     "open_issues_count": 2,
-    "forks_count": 68
+    "forks_count": 70
   },
   {
     "full_name": "mrwilson/advent-of-code-2021",
@@ -61,39 +61,39 @@
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 5749,
-    "open_issues_count": 400,
-    "forks_count": 727
+    "stargazers_count": 5753,
+    "open_issues_count": 403,
+    "forks_count": 726
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 641,
-    "open_issues_count": 17,
-    "forks_count": 218
+    "open_issues_count": 14,
+    "forks_count": 222
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 5161,
-    "open_issues_count": 226,
-    "forks_count": 1747
+    "stargazers_count": 5171,
+    "open_issues_count": 228,
+    "forks_count": 1753
   },
   {
     "full_name": "banzaicloud/logging-operator",
-    "stargazers_count": 943,
-    "open_issues_count": 59,
-    "forks_count": 208
+    "stargazers_count": 944,
+    "open_issues_count": 58,
+    "forks_count": 209
   },
   {
     "full_name": "Threagile/threagile",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 20,
-    "forks_count": 66
+    "forks_count": 64
   },
   {
     "full_name": "litmuschaos/litmus",
-    "stargazers_count": 2612,
-    "open_issues_count": 303,
-    "forks_count": 469
+    "stargazers_count": 2614,
+    "open_issues_count": 302,
+    "forks_count": 470
   },
   {
     "full_name": "55-Degrees/worksheets",
@@ -103,39 +103,39 @@
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 97692,
-    "open_issues_count": 7752,
-    "forks_count": 14596
+    "stargazers_count": 97878,
+    "open_issues_count": 7755,
+    "forks_count": 14616
   },
   {
     "full_name": "kubernetes-sigs/kubefed",
-    "stargazers_count": 2104,
-    "open_issues_count": 31,
-    "forks_count": 473
+    "stargazers_count": 2108,
+    "open_issues_count": 30,
+    "forks_count": 474
   },
   {
     "full_name": "fabric/fabric",
     "stargazers_count": 13340,
-    "open_issues_count": 429,
-    "forks_count": 1881
+    "open_issues_count": 430,
+    "forks_count": 1882
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 7158,
-    "open_issues_count": 755,
-    "forks_count": 432
+    "stargazers_count": 7182,
+    "open_issues_count": 756,
+    "forks_count": 434
   },
   {
     "full_name": "gitpod-io/gitpod",
-    "stargazers_count": 7628,
-    "open_issues_count": 795,
+    "stargazers_count": 7661,
+    "open_issues_count": 835,
     "forks_count": 790
   },
   {
     "full_name": "bregman-arie/devops-resources",
-    "stargazers_count": 4280,
+    "stargazers_count": 4285,
     "open_issues_count": 6,
-    "forks_count": 906
+    "forks_count": 907
   },
   {
     "full_name": "m3o/m3o",
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "gitpod-io/openvscode-server",
-    "stargazers_count": 2952,
+    "stargazers_count": 2959,
     "open_issues_count": 47,
-    "forks_count": 244
+    "forks_count": 245
   },
   {
     "full_name": "prometheus/blackbox_exporter",
-    "stargazers_count": 2818,
-    "open_issues_count": 99,
-    "forks_count": 775
+    "stargazers_count": 2826,
+    "open_issues_count": 98,
+    "forks_count": 776
   },
   {
     "full_name": "TheZoraiz/ascii-image-converter",
-    "stargazers_count": 780,
+    "stargazers_count": 781,
     "open_issues_count": 4,
     "forks_count": 61
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 22107,
-    "open_issues_count": 16,
-    "forks_count": 4772
+    "stargazers_count": 22153,
+    "open_issues_count": 15,
+    "forks_count": 4797
   },
   {
     "full_name": "David-VTUK/CKA-StudyGuide",
-    "stargazers_count": 781,
+    "stargazers_count": 783,
     "open_issues_count": 0,
     "forks_count": 467
   }
